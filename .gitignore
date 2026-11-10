@@ -1,0 +1,20 @@
+# Compilados
+/bin/
+/target/
+*.class
+
+# Eclipse
+.classpath
+.project
+.settings/
+.metadata/
+.recommenders/
+
+# Paquetes y logs
+*.jar
+*.war
+*.log
+
+# Sistema operativo
+.DS_Store
+Thumbs.db
