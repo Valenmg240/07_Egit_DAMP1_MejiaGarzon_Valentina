@@ -5,7 +5,6 @@ public class Ejercicio07 {
 		// TODO Auto-generated method stub
 		
 		System.out.println("Valentina Mejía Garzón");
-	
 	}
 
 }
